@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Zyrgo's Webpage!
 
-You can use the [editor on GitHub](https://github.com/zyrgo/zyrgo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This webpage is still under maintainance.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can view my personal repo from [here](https://github.com/zyrgo/).
 
 ### Markdown
 
